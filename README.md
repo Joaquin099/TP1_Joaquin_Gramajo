@@ -1,3 +1,4 @@
 # TP1_Joaquin_Gramajo
-Ejemplo de prueba para TD2
-Hola Mundo!!!!
+Joaquin Gramajo
+joaquin.gramjo.jg@gmail.com
+20428
