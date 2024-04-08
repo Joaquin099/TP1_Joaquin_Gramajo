@@ -1,4 +1,5 @@
 # TP1_Joaquin_Gramajo
+<<<<<<< HEAD
 Trabajo Práctico N1 de Técnicas Digitales II 2024
 Bruno Palacios
 JTP - TDII
@@ -20,4 +21,4 @@ en el archivo que se obtenia en la computadora local.
 ===========
 >>>>>>> NumeroLargoEnHEXA
 
-
+>>>>>>> JoaquinGramajo
