@@ -29,6 +29,7 @@ conflictivas que existian dentro del mismo. Y se realizaron los comandos necesar
 la base de datos actual y subirlo al sistema.
 
 4) Que significa lo indicado como: 
+
 <<<<<<< HEAD:
 
 Indica el comienzo del bloque de codigo que pertenece a la rama actual.
@@ -39,8 +40,9 @@ Marca el punto donde termina el bloque de codigo de la rama actual y comienza el
 de codigo de la rama que se esta intentando fusionar.
 
 >>>>>>>:
+
 Indica el final del bloque de codigo de la rama que se esta intentando fusionar.
 
-
+>>>>>>>
 
 NumeroLargoEnHEXA
