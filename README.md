@@ -13,8 +13,8 @@ Responda entre líneas a cada una de las siguientes preguntas:
 
 1) ¿Qué ocurrió durante el merge?
 
-Como la instruccion merge es una funsion que intenta realizar las tareas automaticamente en el caso
-que se produzca un error el usuario deber repararlo manualmente, es decir, entrando al archivo y modificandolo.
+Como la instruccion merge es una funcion que intenta realizar las tareas automaticamente en el caso
+que se produzca un error el usuario debera repararlo manualmente, es decir, entrando al archivo y modificandolo.
 Dicho caso fue ocurrido al intentar fusionar hacia la rama principal.
 
 2) ¿Por qué ocurrio?
