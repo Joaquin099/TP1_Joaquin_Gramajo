@@ -1,8 +1,6 @@
 # TP1_Joaquin_Gramajo
-<<<<<<< HEAD
 Trabajo Práctico N1 de Técnicas Digitales II 2024
-xaBruno Palacios
-JTP - TDII
+Bruno Palacios JTP - TDII
 UTN-FRBB
 Palaciosbruno@hotmail.com
 Joaquin Gramajo
