@@ -13,20 +13,19 @@ Responda entre líneas a cada una de las siguientes preguntas:
 
 1) ¿Qué ocurrió durante el merge?
 
-Como la instruccion merge es una funcion que intenta realizar las tareas automaticamente en el caso
-que se produzca un error el usuario debera repararlo manualmente, es decir, entrando al archivo y modificandolo.
-Dicho caso fue ocurrido al intentar fusionar hacia la rama principal.
+Se intento fusionar hacia la rama principal y como ambos archivos no estaban actualizados
+se produjo un error.
+
 
 2) ¿Por qué ocurrio?
 
-Ocurrio porque se detecto una sobre escritura de los archivos existentes e intento de fusion hacia la
-rama principal.
+Porque la informacion contenida en ambos archivos diferian entre si en la misma parte del codigo.
 
 3) ¿Cómo lo soluciono?
 
-Se accedio manualmente al archivo .txt que se encontraba en la carpeta y se modifico las zonas
-conflictivas que existian dentro del mismo. Y se realizaron los comandos necesarios para actualizar
-la base de datos actual y subirlo al sistema.
+Se resolvieron los conflictos detectados por git editando manualmente el contenido del archivo
+que se encontraba en la carpeta. Y se realizaron los comandos necesarios para actualizar la base
+de datos actual y subirlo al sistema.
 
 4) Que significa lo indicado como: 
 
